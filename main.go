@@ -13,9 +13,3 @@ git commit -m "."
 git push
 */
 
-
-/** 
- 
-upload test
-
-*/
