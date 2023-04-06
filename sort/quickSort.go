@@ -26,8 +26,8 @@ func QuickSort(arr []int) []int {
 		}
 	}
 
-	lowPart = quickSort(lowPart)
-	highPart = quickSort(highPart)
+	lowPart = QuickSort(lowPart)
+	highPart = QuickSort(highPart)
 
 	lowPart = append(lowPart, middlePart...)
 	lowPart = append(lowPart, highPart...)
