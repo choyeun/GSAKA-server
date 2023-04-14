@@ -6,5 +6,8 @@
         "rdata",
         "ridx",
         "tosort"
+    ],
+    "cSpell.words": [
+        "OPENAI"
     ]
 }
