@@ -19,8 +19,10 @@ func main() {
 
 /**
 git pull
+git branch dev
+git checkout dev
 go run main.go
 git add .
 git commit -m "."
-git push
+git push origin dev
 */
